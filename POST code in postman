@@ -1,0 +1,8 @@
+http://localhost:4000/books   #post link path
+
+#coding for post
+{
+  "id": 3,
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams"
+}
