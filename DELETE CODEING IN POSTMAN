@@ -1,0 +1,8 @@
+http://localhost:4000/books/2    #Delete path
+
+# codeing for it
+{
+  "id": 2,
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams"
+}
